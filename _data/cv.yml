@@ -22,7 +22,7 @@ cv:
       - institution: ETH Zurich
         location: Zurich, Switzerland
         url: https://www.ethz.ch/
-        area: Chemistry – Focus: Computational & Theoretical Chemistry
+        area: "Chemistry – Focus: Computational & Theoretical Chemistry"
         studyType: MSc
         start_date: 2024-09
         end_date: 2026-08
